@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TodosApp</string>
+    <string name="title_activity_main">To dos</string>
+    <string name="categories">Categories</string>
+    <string name="title_activity_items">ItemsActivity</string>
+    <string name="done">Done</string>
+    <string name="pending">Pending</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="categoryExits">category already exists</string>
+    <string name="please_grant_necessary_permission">Please grant necessary permission</string>
+    <string name="ok">ok</string>
+    <string name="invalidFile">Invalid File</string>
+    <string name="nocategories">No categories found</string>
+    <string name="noitems">No items found</string>
+    <string name="successSave">Item saved successfully</string>
+    <string name="successUpdate">Item updated successfully</string>
+    <string name="delete">Do you want to delete this item ?</string>
+    <string name="categoryEmpty">Category cannot be empty</string>
+</resources>
